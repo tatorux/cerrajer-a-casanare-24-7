@@ -330,7 +330,7 @@ footer p{
 
 @media screen and (min-width:769px) and (max-width:992px){
     nav img{
-        width: 60px;
+        width: 180px;
     }
     nav.bg-navefra ul li a:hover::after{
         width: 10%;
@@ -462,7 +462,7 @@ footer p{
 
     /* HEADER */
     nav img{
-        width: 50px;
+        width: 180px;
     }
 
     /* HERO */
@@ -587,7 +587,7 @@ footer p{
     }
     
     nav img{
-        width: 50px;
+        width: 160px;
         margin: 0 auto;
     }
     nav.bg-navefra ul li a:hover::after{
